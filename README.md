@@ -1,4 +1,4 @@
-# Sales-Forecast-with-Machine-Learning-and-Python-Automation
+# Sales Forecast with Machine Learning and Python Automation
 
 Project Description
 - Built a machine learning pipeline to forecast sales using IBM Watson AutoAI
